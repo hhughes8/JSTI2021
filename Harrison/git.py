@@ -1,3 +1,3 @@
-import numpy as np
-
-test =np.empty(1,1)
+x = 2
+y = 3
+print(x+y)
